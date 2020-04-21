@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.w30 {
+    width: 30%;
+}
+
+.w70 {
+    width: 70%;
+}
+
+header {
+    /* BEGIN (write your solution here) */
+    display: flex;
+     flex-direction: row-reverse;
+    /* END */
+    background: #00BCD4;
+    color: #FFF;
+    padding: 0 20px;
+}
+
+header .name {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+header nav ul {
+    /* BEGIN (write your solution here) */
+    display: flex;
+    /* END */
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    width: 20%;
+}
+
+main {
+    /* BEGIN (write your solution here) */
+    /*display: inline-flex;*/
+    display: flex;
+    }
+
+section {
+    padding: 30px 50px;
+    box-sizing: border-box;
+    background: #03A9F4;
+    color: #FFF;
+}
+
+.aside-block {
+    height: 100px;
+    padding: 30px 50px;
+    box-sizing: border-box;
+    background: #673AB7;
+    color: #FFF;
+}
