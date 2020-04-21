@@ -14,7 +14,7 @@ body {
 header {
     /* BEGIN (write your solution here) */
     display: flex;
-     flex-direction: row-reverse;
+    flex-direction: row-reverse;
     /* END */
     background: #00BCD4;
     color: #FFF;
@@ -25,7 +25,7 @@ header .name {
     font-size: 20px;
     font-weight: bold;
     text-align: right;
-    padding: 15px;
+    padding: 20px;
     box-sizing: border-box;
 }
 
@@ -45,7 +45,7 @@ main {
     /* BEGIN (write your solution here) */
     /*display: inline-flex;*/
     display: flex;
-    }
+}
 
 section {
     padding: 30px 50px;
