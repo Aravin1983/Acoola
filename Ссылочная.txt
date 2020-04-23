@@ -1,26 +1,29 @@
 ﻿
 --------Верстка
 
-	https://www.fontsquirrel.com/ 					- шрифты
-	https://www.awwwards.com/ 						- сборник лучших сайтов
-	https://www.iconfinder.com/ 					- сборник иконок
-	https://material.io/design/ 					- material design
-	https://material.io/tools/color/#!/ 			- генератор цветов
-	https://color.adobe.com/ru/create/color-wheel/ 	- подбор цветов
-	http://modulargrid.org/#app 					- сетка1
-	https://960.gs/ 								- сетка2
+	https://www.fontsquirrel.com/ 								- шрифты
+	https://www.awwwards.com/ 									- сборник лучших сайтов
+	https://www.iconfinder.com/ 								- сборник иконок
+	https://material.io/design/ 								- material design
+	https://material.io/tools/color/#!/ 						- генератор цветов
+	https://color.adobe.com/ru/create/color-wheel/ 				- подбор цветов
+	http://modulargrid.org/#app 								- сетка1
+	https://960.gs/ 											- сетка2
 	http://mathhelpplanet.com/static.php?p=javascript-algoritmy-sortirovki 	- правила сортировки
 
 --------Браузер
-	https://caniuse.com/ 							- провека на совместимость с браузерами
+	https://caniuse.com/ 										- провека на совместимость с браузерами
 
 --------HTML
-	http://htmlbook.ru/ 							- изучение html, css
+	http://htmlbook.ru/ 										- изучение html, css
 
 --------CSS
 	FLEX
-	https://habr.com/ru/post/467049/				- Полное руководство по Flexbox
-	https://html5book.ru/css3-flexbox/ 				- справочник по Flex
+	https://wp-kama.ru/id_8045/flex-v-css.html#align-content	- Flexbox в CSS
+	https://codepen.io/SelenIT/pen/yNNZxr						- Игровая площадка с Flexbox
+	
+	https://habr.com/ru/post/467049/							- Полное руководство по Flexbox
+	https://html5book.ru/css3-flexbox/ 							- справочник по Flex
 	https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048	- 30 css селекторов
 
 --------JavaScript
