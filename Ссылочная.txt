@@ -1,0 +1,30 @@
+
+--------Верстка
+
+	https://www.fontsquirrel.com/ 			- шрифты
+	https://www.awwwards.com/ 			- сборник лучших сайтов
+	https://www.iconfinder.com/ 			- сборник иконок
+	https://material.io/design/ 			- material design
+	https://material.io/tools/color/#!/ 		- генератор цветов
+	https://color.adobe.com/ru/create/color-wheel/ 	- подбор цветов
+	http://modulargrid.org/#app 			- сетка1
+	https://960.gs/ 				- сетка2
+	http://mathhelpplanet.com/static.php?p=javascript-algoritmy-sortirovki 				- алгоритмы сортировки
+
+--------Браузер
+	https://caniuse.com/ 				- проверка технологий по браузерам
+
+--------HTML
+	http://htmlbook.ru/ 				- справочник html, css
+
+--------CSS
+	https://html5book.ru/css3-flexbox/ 		- статья по флексам
+	https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048	- 30 css селекторов
+
+--------JavaScript
+	
+--------learn.javascript.ru
+	
+
+								
+
