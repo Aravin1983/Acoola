@@ -21,6 +21,7 @@
 	FLEX
 	https://wp-kama.ru/id_8045/flex-v-css.html#align-content	- Flexbox в CSS
 	https://codepen.io/SelenIT/pen/yNNZxr						- Игровая площадка с Flexbox
+	https://codepen.io/enxaneta/full/adLPwv						- Godepen по Flex
 	
 	https://habr.com/ru/post/467049/							- Полное руководство по Flexbox
 	https://html5book.ru/css3-flexbox/ 							- справочник по Flex
