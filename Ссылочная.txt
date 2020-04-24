@@ -27,6 +27,10 @@
 	https://html5book.ru/css3-flexbox/ 							- справочник по Flex
 	https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048	- 30 css селекторов
 
+--------SASS-SCSS
+
+	https://sass-scss.ru/documentation/						-	- Полное руководство
+
 --------JavaScript
 	
 --------learn.javascript.ru
