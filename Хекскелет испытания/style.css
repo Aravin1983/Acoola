@@ -1,8 +1,8 @@
 .gallery {
     /* BEGIN (write your solution here) */
-display: flex;
-flex-wrap: wrap;
-flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
     /* END */
 
     height: 700px;
@@ -11,7 +11,7 @@ flex-direction: column;
     box-sizing: border-box;
     padding: 20px 30px;
 
-    background: #f9f9f9;
+    background: #c0080886;
 }
 
 .gallery-item {

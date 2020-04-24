@@ -99,7 +99,7 @@ h2 {
     /* BEGIN (write your solution here) */
     display: flex;
     justify-content: space-between;
-    
+
     /* END */
 }
 
@@ -107,14 +107,14 @@ h2 {
     background: #f9f9f9;
     border: 1px solid #e8e8e8;
     padding: 10px 25px;
-    
-    
+
+
 
     /* BEGIN (write your solution here) */
     width: 24%;
     min-width: 200px;
     max-width: 500px;
-    
+
     /* END */
 }
 
