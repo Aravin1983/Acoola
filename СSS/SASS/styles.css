@@ -1,0 +1,61 @@
+.headings {
+  color: blue;
+  font-family: sans-serif;
+}
+
+ul {
+  list-style: none;
+  background-color: lightgrey;
+}
+
+ul li {
+  display: inline-block;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+ul li:hover {
+  background-color: purple;
+  color: white;
+}
+
+#box-one {
+  width: 250px;
+  height: 250px;
+  background-color: purple;
+  -webkit-box-shadow: 5px 5px 10px black;
+  -ms-box-shadow: 5px 5px 10px black;
+  box-shadow: 5px 5px 10px black;
+}
+
+#box-button {
+  width: 100%;
+  font-size: 18px;
+  padding: 5px;
+  background-color: red;
+}
+
+button:hover {
+  color: white;
+}
+
+.col-1 {
+  width: 6.25%;
+}
+
+.col-2 {
+  width: 12.5%;
+}
+
+.col-3 {
+  width: 18.75%;
+}
+
+.col-4 {
+  width: 25%;
+}
+
+.col-5 {
+  width: 31.25%;
+}
+/*# sourceMappingURL=styles.css.map */
