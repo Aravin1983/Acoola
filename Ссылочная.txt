@@ -30,7 +30,8 @@
 --------JavaScript
 	
 --------learn.javascript.ru
-	
+Фрилансер по жизни - IT и фриланс - youtube.com програмирование
+ctrl+b - скрывает левую панель
 
 								
 
